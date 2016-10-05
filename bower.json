@@ -1,0 +1,25 @@
+{
+  "name": "Tyrr",
+  "version": "1.0.0.0",
+  "description": "Asynchronous Inheritable Modular SPA Framework.",
+  "main": "default.js",
+  "authors": [
+    "Cristiano Campos de Lima;https://github.com/camposdelima;"
+  ],
+  "license": "APACHE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "vendors"
+  ],
+  "dependencies": {
+    "jquery": "",
+    "requirejs": "",
+    "sammy": "",
+    "text": "",
+    "amd-feature": ""
+  }
+}
