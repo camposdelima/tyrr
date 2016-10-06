@@ -1,7 +1,7 @@
 define(
     [
         'feature!Component'
-        ,'jQuery'
+        ,'jquery'
     ]
     ,function(BaseType){
 
