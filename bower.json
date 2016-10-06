@@ -1,5 +1,5 @@
 {
-  "name": "Tyrr",
+  "name": "tyrr",
   "version": "0.0.1",
   "description": "Asynchronous Inheritable Modular SPA Framework.",
   "main": "default.js",
