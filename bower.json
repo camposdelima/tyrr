@@ -1,6 +1,6 @@
 {
   "name": "Tyrr",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Asynchronous Inheritable Modular SPA Framework.",
   "main": "default.js",
   "authors": [
